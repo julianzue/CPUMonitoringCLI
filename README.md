@@ -1,10 +1,8 @@
 # CPUMonitoringCLI
 
 ## Screenshots
-monitor.py\
-![image info](./monitor.png)\
+![image info](./monitor.png)
 
-check_log.py\
 ![image info](./check_log.png)
 
 ## Description
