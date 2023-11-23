@@ -1,5 +1,12 @@
 # CPUMonitoringCLI
 
+## Screenshots
+monitor.py
+![image info](./monitor.png)
+
+check_log.py
+![image info](./check_log.png)
+
 ## Description
 This tool written in python logs your cpu in percentage.
 You can filter the log.txt file with the check_log.py script to see the results.
